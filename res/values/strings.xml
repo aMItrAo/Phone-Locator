@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">Phone Locator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="passwrd">keyword</string>
+    <string name="lg">Ok</string>
+    <string name="change">View</string>
+
+</resources>
